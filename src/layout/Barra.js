@@ -7,21 +7,21 @@ function Barra() {
        
         <li>
         <Link to='/menu1'>
-          Circulo
+          Menu1
         </Link>
           
         </li>
 
         <li>
         <Link to='/menu3'>
-          Cuadro
+          Menu3
         </Link>
           
         </li>
 
         <li>
         <Link to='/menu2'>
-          Contact
+          Menu2
         </Link>
           
         </li>

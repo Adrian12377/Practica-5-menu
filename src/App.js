@@ -1,6 +1,6 @@
-import Circulo from './components/Menu1';
-import Contact from './components/Menu2';
-import Cuadro from './components/Menu3';
+import Menu1 from './components/Menu1';
+import Menu2 from './components/Menu2';
+import Menu3 from './components/Menu3';
 import Barra from './layout/Barra';
 
 import {BrowserRouter, Route, Routes} from 'react-router-dom';
