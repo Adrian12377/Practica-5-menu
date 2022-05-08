@@ -2,7 +2,7 @@ import "./Menu3.css";
 function Menu3(){
     return(
         <>
-        <div className="circulo"></div>
+        <div className="ciculo"></div>
         </>
     );
 }

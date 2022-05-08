@@ -6,25 +6,27 @@ function Barra() {
       <ul>
        
         <li>
-        <Link to='/menu1'>
+        <Link to='/Menu1'>
           Menu1
         </Link>
           
         </li>
 
         <li>
-        <Link to='/menu3'>
-          Menu3
+        <Link to='/Menu2'>
+          Menu2
         </Link>
           
         </li>
 
         <li>
-        <Link to='/menu2'>
-          Menu2
+        <Link to='/Menu3'>
+          Menu3
         </Link>
           
         </li>
+
+        
       </ul>
 
       <section>
